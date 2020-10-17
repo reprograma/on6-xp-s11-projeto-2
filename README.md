@@ -16,13 +16,13 @@ Yey! Bem vinda a mais uma semana, vamos fazer um projeto bem próximo de um dia 
 
 ### Arquitetura desejada
 
-![Semana%2011%20-%20Projeto%202%20a0376f8b605d4cd2af9dc1f2abecc545/M_de_Maravilhosas.png](Semana%2011%20-%20Projeto%202%20a0376f8b605d4cd2af9dc1f2abecc545/M_de_Maravilhosas.png)
+![assets/resposabilidades.png](assets/responsabilidades.png)
 
 *Representação visual/diagrama das camadas do nosso Backend*
 
 ### Fluxo do consumo da API
 
-![Semana%2011%20-%20Projeto%202%20a0376f8b605d4cd2af9dc1f2abecc545/M_de_Maravilhosas_(1).png](Semana%2011%20-%20Projeto%202%20a0376f8b605d4cd2af9dc1f2abecc545/M_de_Maravilhosas_(1).png)
+![assets/fluxo.png](assets/fluxo.png)
 
 ### Estrutura do projeto
 
@@ -42,14 +42,15 @@ Yey! Bem vinda a mais uma semana, vamos fazer um projeto bem próximo de um dia 
    |- 📄 server.js
 ```
 
+
 ### Desafios do dia:
 
-![Semana%2011%20-%20Projeto%202%20a0376f8b605d4cd2af9dc1f2abecc545/M_de_Maravilhosas2x.png](Semana%2011%20-%20Projeto%202%20a0376f8b605d4cd2af9dc1f2abecc545/M_de_Maravilhosas2x.png)
+![assets/tarefas.png](assets/tarefas.png)
 
 ### 🏡 Para o lar
 
-![Semana%2011%20-%20Projeto%202%20a0376f8b605d4cd2af9dc1f2abecc545/M_de_Maravilhosas2x_(1).png](Semana%2011%20-%20Projeto%202%20a0376f8b605d4cd2af9dc1f2abecc545/M_de_Maravilhosas2x_(1).png)
+![assets/para-o-lar.png](assets/para-o-lar.png)
 
 ### Para Quarta-feira
 
-![Semana%2011%20-%20Projeto%202%20a0376f8b605d4cd2af9dc1f2abecc545/M_de_Maravilhosas_(2).png](Semana%2011%20-%20Projeto%202%20a0376f8b605d4cd2af9dc1f2abecc545/M_de_Maravilhosas_(2).png)
+![assets/front.png](assets/front.png)

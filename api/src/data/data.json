@@ -1,0 +1,167 @@
+[
+    {
+        "id":1,
+        "name": "Viola Davis",
+        "photo":"https://snworksceo.imgix.net/ids/dc5fa779-f63e-4e52-bf19-5ae2527681b3.sized-1000x1000.jpg?w=1000",
+        "subtitle": "Mulherão dentro e fora das telas",
+        "about": "Aos 51 anos, Viola é a única atriz negra com três indicações ao Oscar no currículo. Além disso, até hoje nenhuma outra mulher negra recebeu um Emmy de Melhor Atriz – ela venceu em 2016, pela atuação em How to Get Away with Murder.",
+        "phrase":"A única coisa que separa mulheres que não são brancas de todas as outras pessoas é oportunidade.",
+        "history": [
+            "Viola Davis nasceu na fazenda de sua avó em St. Matthews, na Carolina do Sul,  sendo a quinta de seis irmãs. Com apenas dois meses de vida, se mudou com a família para Central Falls, em Rhode Island. Teve uma infância de muita dificuldade e pobreza, mas as coisas começaram a melhorar quando, na escola, descobriu a paixão pelos palcos.",
+            "Em 2015, Viola foi a primeiro afro-americana a ganhar um Emmy de melhor atriz em drama. Ela também foi a única negra a ser premiada no Oscar e no Tony. Assim, ela foi a 23ª atriz na história a completar a chamada Tríplice Coroa de Atuação (em inglês, Triple Crown of Acting)."
+        ],
+        "addedBy":"Gabrielli Venerando"
+    },
+    {
+        "id":2,
+        "name": "Ada Lovelace",
+        "photo":"https://s2.glbimg.com/paF5KTEVGzMU-ZcZa2mjYicNDjM=/e.glbimg.com/og/ed/f/original/2015/03/09/ada.jpg",
+        "subtitle": "A filha do famoso poeta Lord Byron, Augusta Ada Byron, condessa de Lovelace - mais conhecida como Ada Lovelace - mostrou seu talento para a matemática desde tenra idade. Ela traduziu um artigo sobre uma invenção de Charles Babbage e acrescentou seus próprios comentários. Lovelace é considerada a criadora do primeiro computador.",
+        "phrase":"Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender.",
+        "history": [ 
+            "Ada, nascida como Augusta Ada Byron em 10 de dezembro de 1815, era o único filho legítimo do famoso poeta Lord George Gordon Byron . O casamento de Lord Byron com a mãe de Ada, Lady Anne Isabella Milbanke Byron, não foi feliz. Lady Byron se separou do marido apenas algumas semanas após o nascimento da filha. Alguns meses depois, Lord Byron deixou a Inglaterra e Ada nunca mais viu o pai. Ele morreu na Grécia quando Ada tinha 8 anos.",
+            "Ada teve uma educação incomum para uma garota aristocrática em meados do século XIX. Por insistência de sua mãe, os tutores ensinaram matemática e ciências. Esses assuntos desafiadores não eram comuns para as mulheres da época, mas sua mãe acreditava que participar de estudos rigorosos impediria Ada de desenvolver o temperamento temperamental e imprevisível de seu pai. Ada também foi forçada a ficar parada por longos períodos porque sua mãe acreditava que isso a ajudaria a desenvolver o autocontrole.",            "Por volta dos 17 anos, Ada conheceu Charles Babbage, matemático e inventor. Os dois se tornaram amigos, e o muito mais velho Babbage serviu como mentor para Ada. Por meio de Babbage, Ada começou a estudar matemática avançada com o professor Augustus de Morgan, da Universidade de Londres.",
+            "Ada ficou fascinada com as idéias de Babbage. Conhecido como o pai do computador, ele inventou o mecanismo da diferença, destinado a realizar cálculos matemáticos. Ada teve a chance de olhar para a máquina antes de terminar e foi cativada por ela. Babbage também criou planos para outro dispositivo conhecido como mecanismo analítico, projetado para lidar com cálculos mais complexos.",
+            "Mais tarde, Ada foi convidado a traduzir um artigo sobre o mecanismo analítico de Babbage que havia sido escrito pelo engenheiro italiano Luigi Federico Menabrea para um periódico suíço. Ela não apenas traduziu o texto original em francês para o inglês, mas também acrescentou seus próprios pensamentos e idéias na máquina. Suas anotações acabaram sendo três vezes mais longas que o artigo original. Seu trabalho foi publicado em 1843, em uma revista científica inglesa. Ada usou apenas as iniciais AAL, de Augusta Ada Lovelace, na publicação."
+        ],
+        "addedBy":"Maria Oliveira"
+    },
+    {
+        "id":3,
+        "name": "Carol Shaw",
+        "photo":"https://cdn.ome.lt/Rjx4rK-eZZV0LUIBw_3tQx8UUKU=/770x0/smart/uploads/conteudo/fotos/carol-shaw-premios.png",
+        "subtitle": "Carol Shaw a primeira desenvolvedora de jogos eletrônicos",
+        "about": "Menina também joga (e ainda trabalha com desenvolvimento de games). Mas é sabido que, assim como em demais setores do universo da tecnologia e da ciência, é um tanto difícil que mulheres conquistem seu espaço dentro desses “clubes do bolinha”. Contudo, algumas se destacam e a primeira delas no mundo dos games foi Carol Shaw, desenvolvedora de jogos eletrônicos no final da década de 1970.",
+        "phrase":"Por quê as garotas não deveriam ser boas em matemática?",
+        "history": [
+            "Nascida na Califórnia (Estados Unidos) em 1955, Shaw sempre esteve na região do Vale do Silício e, naturalmente, foi influenciada pela revolução tecnológica que ali aconteceu. Seu pai era um engenheiro mecânico que trabalhava no Stanford Linear Accelerator Center (um laboratório que trabalhava com projetos energéticos para o governo), e Carol começou a se interessar pelo universo dos computadores enquanto estava no ensino médio, quando usou um computador pela primeira vez e descobriu que podia jogar games baseados em texto no sistema BASIC.",
+            "Seu interesse pelos videogames começou cedo, quando a jovem Carol costumava frequentar o minigolfe de sua região, onde havia uma sala com jogos de arcades. Ela gostava especialmente do game Computer Space, considerado o primeiro fliperama da história. Então, Shaw entrou na Universidade da Califórnia e graduou-se em engenharia elétrica e também em ciência da computação em 1977, conquistando um mestrado no segundo curso em Berkeley. E a evolução profissional de Shaw foi rápida: já em 1978 tornou-se a primeira mulher a desenvolver um jogo eletrônico em toda a história."
+         ],
+        "addedBy":"Millena Ribeiro Braz Gomes"
+    },
+    {
+        "id":4,
+        "name": "Formiga",
+        "photo":"https://conteudo.cbf.com.br/cdn/thumbs/910x0/201607/20160722095914_0.jpeg",
+        "subtitle": "Mulher, Nordestina, Negra e Jogadora de Futebol",
+        "about": "Recordista entre homens e mulheres. Ninguém jogou mais Copas do que ela. Aliás, não houve uma geração do futebol feminino brasileiro que não tivesse a presença dela. Foram mais de duas décadas de trabalho intensa. Um trabalho de formiguinha. E não por acaso, na França, onde joga, ganhou o apelido de \"Formidable\" (formidável)",
+        "phrase":"Não desistam de lutar pelos seus sonhos. Acreditar que vai chegar lá, principalmente essas meninas novas que estão vindo agora. Que acreditem realmente nesse seu talento, apostem e vão à luta",
+        "history": [  
+            "Miraildes Mota nascida em Salvador-BA, seu amor pelo futebol se dá desde pequena quando arrancava as cabeças das boneca para poder fazer bola, seu padrinho viu logo que tinha jeito e resolveu não dar mais bonecas de presente e sim uma bola. Jogava descalço nos campos de barro junto com os meninos no subúrbio ferroviário de Salvador. Começou no futsal (Euroexport). Passou para o futebol em seguida e logo foi revelação do Campeonato Baiano desfilando seu futebol nos gramados do Estádio de Periperi. Logo depois, aos 15 anos, foi revelação do Brasileiro, o que levou à sua precoce convocação à Seleção.",
+            "Chegou à seleção principal aos 16 anos e desde lá não saiu mais. Foram anos. Com a camisa verde-amarela, viveu por gerações. Viu mudanças, quebras de paradigmas e foi fundamental para uma mudança de olhar do país para o futebol disputado entre mulheres. Formiga também alcançou o feito de ser a futebolista, entre masculino e feminino, com maior número de jogos pela seleção brasileira. Participou de sete Copas do Mundo: 1995, 1999 , 2003, 2007, 2011, 2015 e 2019. Finalizou no ano passado sua sétima e última Copa do Mundo, deixando para trás a goleira japonesa Homare Sawa."
+        ],
+        "addedBy":"Caroline Araujo"
+    },
+    {
+        "id":5,
+        "name": "Lydia Garcia",
+        "photo":"http://brasilia.memoriaeinvencao.com/wp-content/uploads/2018/03/lydiagarcia2.jpg",
+        "subtitle": "Arte-Edução e Beleza Negra",
+        "about": "Pioneira da militância e ativismo negro no Distrito Federal. É dessa forma que Lydia Garcia, 82 anos, é conhecida por muitos. Ainda em meados de 1960, no início da construção de Brasília, a carioca decidiu vir à capital e continuar a trajetória de luta e garantia de direitos da população negra no Brasil.",
+        "phrase":"As pessoas consideravam a minha casa a primeira embaixada dos países Áfricanos em Brasília. Era muito comum recebermos alunos africanos. Era uma forma de militância e de inclusão",
+        "history": [ 
+            "A relação com o universo das artes e da música começou desde criança, com apenas 8 anos de idade. Apaixonada por piano, formou-se em música pelo Conservatório Brasileiro de Música. Pouco depois de chegar a Brasília, Lydia começou, em 1964, a dar aulas de piano e técnicas de voz e instrumentos na Escola Parque da 308 Sul. Lecionar tornou-se, mais uma vez, um exercício que englobava a rotineira caminhada pela luta afro; Sendo a primeira professora de artes negra da rede pública no DF.",
+            "Nas salas de aula, a professora buscava ensinar, além da teoria musical, as crianças negras a \"defenderem o seu espaço\" e, para isso, ela acreditava que a melhor solução era um \"momento de discussão sobre diferenças, aceitação e respeito\". Para Lydia, era fundamental que as crianças, desde cedo, fossem apaixonadas pelo que enxergassem ao se olhar no espelho. Ainda em sala de aula, Lydia buscava contextualizar as questões de sua disciplina com o real processo de independência da África. Segundo ela, “os livros didáticos mostram a história contada pelo ponto de vista europeu e não dão espaço para que a verdadeira memória da luta africana seja ensinada",
+            "Além disso, há 28 anos, Lydia criou o Bazafro. A proposta da marca é inserir a cultura africana à moda. Por isso, abriu um ateliê, na própria residência, onde expõe peças de roupas inspiradas na tradição afro e produzidas com tecido africano.",
+            "Desde a primeira gravidez de Lydia, em 1960, a vontade de transformar toda uma geração em pessoas mais conscientes a respeito da história africana era intensa. Em função disso, ela e o marido, Willy Mello, conhecido como Olu Mello, decidiram que, a partir daquele momento, todos os nomes escolhidos para os filhos seriam de origem africana. Kenya foi o primeiro nome escolhido. Em seguida, nasceu Mali, Ialê, Kwame e Luena. A ideia de valorização dos nomes africanos se deve à necessidade de “preservar a identidade” e, de acordo com Lydia, foi a forma que ela e o marido encontraram de mostrar a verdadeira origem da família. Além disso, ela conta que a iniciativa influenciou diversas famílias a seguirem a mesma proposta. \"Minha família sempre esteve envolvida com a militância contra o racismo, desde que meus filhos nasceram. Hoje, tenho 11 netos e todos fazem parte do movimento negro e estão ligados de alguma forma à arte. Por exemplo, Hodari e Aori são compositores de rap, Aisha é modelo e DJ, e Yaminah é do universo da MPB” e  Odaraya, artista visual como seu avô.\" completa Lydia."
+        ],
+        "addedBy":"Odaraya Mello a.k.a. Kallapa Dhamma"
+    },
+    {
+        "id":6,
+        "name": "Dame Stephanie Shirley",
+        "photo":"https://www.managers.org.uk/wp-content/uploads/2020/08/xCMI-Dame-Stephanie-Shirley-New-World-of-Work-Beta.jpg.pagespeed.ic.xiM01IKREm.webp",
+        "subtitle": "À frente do seu tempo",
+        "about": "Dame Stephanie “Steve” Shirley, nasceu em 16 de setembro de 1933, é uma pioneira na Tecnologia da Informação, mulher de negócios e filantropa. Com 5 anos de idade chegou, como criança refugiada, ao Reino Unido, onde foi adotada. Stephanie se formou com honras em Matemática, trabalhou no Posto Office Research Station construindo computadores do zero e escrevendo código em linguagem de máquina. Em 1959 foi trabalhar na CDL Ltd, que é responsável pelo design do computador ICT 1301.",
+        "phrase":"You can always tell ambitious women by the shape of our heads: They're flat on top for being patted patronizingly.",
+        "history": [ 
+            "Em 1959, Shirley fundou, com o capital de £6, a empresa de software Freelance Programmers, (depois FI, então Xansa, depois foi comprada pela Steria e agora é parte de Sopra Steria Group).",
+            "Ela queria criar oportunidades de trabalho para mulheres com dependentes, e predominantemente empregou mulheres, até que a lei da Ato Discriminação Sexual tornou isso ilegal. Ela adotou o nome de “Steve”, para ajuda-la no mundo dos negócios dominado por homens. Um dos projetos que ela e seu time fizeram foi programar a caixa preta do avião Concorde."
+        ],
+        "addedBy":"Natalya Peixoto"
+    },
+    {
+        "id":7,
+        "name": "Katherine Johnson",
+        "photo":"https://s2.glbimg.com/A_TLJEzf4MbLWbnMwY7Thgzcgw4=/0x0:5184x3456/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/N/Q/J6va7zRdiis2MeSGb2hQ/2020-02-24t151854z-169681631-rc237f9779q9-rtrmadp-3-people-katherine-johnson.jpg",
+        "subtitle": "A calculadora que ajudou a Apolo 11 chegar à Lua",
+        "about": "Katherine Coleman Goble Johnson é uma física, cientista espacial e matemática estadunidense. Ela deu contribuições fundamentais para a aeronáutica e exploração espacial dos Estados Unidos, em especial em aplicações da computação na NASA. Conhecido pela precisão na navegação astronômica informatizada, seu trabalho de liderança técnica na NASA se estendeu por décadas.",
+        "phrase":"Nós sempre vamos ter a ciência conosco. Algumas coisas vão desaparecer, mas sempre vai haver ciência, engenharia e tecnologia. E sempre, sempre vai haver matemática. Tudo é física e matemática",
+        "history": [ 
+            "Katherine optou pela matemática com interesse em pesquisa na área, um caminho com muitas portas fechadas para negras na época. Os primeiros empregos que conseguiu eram para lecionar.",
+            "De 1953 a 1958, ela trabalhou como \"computador\", fazendo análises para tópicos como a redução da rajada para as aeronaves. Originalmente designada para a seção da West Area Computers, Katherine foi redesignada para a Divisão de Controle e Orientação da Divisão de Pesquisa de Voo. Porém, Katherine e as outras mulheres negras da divisão de computação eram conhecidas como \"computadores de cor\" e sujeitadas à segregação, trabalhando, comendo e usando banheiros separados de seus colegas brancos até que essa divisão segregada fosse terminada em 1958. De 1958, até sua aposentadoria em 1986, ela trabalhou como técnica aeroespacial. Katherine ainda trabalhou para a seção de Controles aeroespaciais, onde calculou a trajetória de voo de Alan Shepard, o primeiro norte-americano no espaço, em 1959. Calculou também a janela de lançamento do Projeto Mercury, em 1961. Katherine plotou cartas de navegação, orientando naves pelas estrelas em caso de falha eletrônica e, em 1962, verificou os primeiros cálculos de computador da órbita de John Glenn ao redor da Terra. Glenn pediu por ela pessoalmente para verificar os números de seu computador de bordo e se recusou a voar até que ela fizesse a verificação.",
+            "Em seguida, Katherine trabalhou com computadores digitais, tais como os conhecemos hoje. Sua habilidade e reputação por precisão em cálculos deu confiança aos colegas para trabalhar com a nova tecnologia. Ela calculou a trajetória da missão Apollo 11, em 1969. Durante o pouso, Katherine estava em uma reunião nas montanhas Pocono, ao redor da televisão junto de várias outras pessoas, assistindo aos primeiros passos na Lua. Em 1970, ela trabalhou na missão da Apollo 13. Assim que a missão foi abortada, Katherine trabalhou nos procedimentos de backup e nas cartas que auxiliaram o retorno em segurança dos astronautas para a Terra, quatro dias depois. Mais tarde, Katherine ainda trabalharia no programa dos ônibus espaciais, nos satélites de observação terrestres e na futura missão a Marte."
+        ],
+        "addedBy":"Gabriela Dal Toé Fortuna"
+    },    
+    {
+        "id":8,
+        "name": "Sonia Guimaraes",
+        "photo":"https://www3.unicentro.br/petfisica/wp-content/uploads/sites/54/2019/05/S%C3%B4nia.jpg",
+        "subtitle": "Primeira mulher negra professora no Instituto Tecnológico de Aeronáutica.",
+        "about": "Nascida em Brotas – SP  em 1957,  É a primeira negra brasileira Doutora em Física, graduou sena Universidade Federal de São Carlos (1979), mestrado em Física Aplicada pelo Instituto de Física e Química de São Carçar – Universidade de São Paulo (1983) e doutorado em Materiais Eletrônicos – The University Of Manchester Institute Of  Science and Technology (1989) e atualmente é professora do Instituto Tecnológico da Aeronáutica (ITA).",
+        "phrase":"Necessitamos de mais mulheres negras escolhendo, fazendo a seleção de pessoal. Não adianta ser a única. Se formos muitas e em várias posições hierárquicas, isso vai melhorar",
+        "history": [ 
+            "Sua história teve muitos obstáculos, estudou em escola estadual e sempre gostou de matemática, sofria com o racismo, isso à prejudicou no seu primeiro ano do ginásio, e uma professora de física disse à ela que jamais ia aprender física. Mesmo com esses fatores, ela passou em segundo lugar para o colegial. Acabou cursando ensino técnico em Edificações no Liceu de Artes e Ofícios de São Paulo, onde decidiu que seria engenheira civil. No seu terceiro ano de curso técnico, ainda arrumou um emprego e em seguida entrou no cursinho, lugar em que se apaixonou por Física e incluiu o curso em uma das opções para o vestibular.",
+            "Passou no vestibular e foi estudar Física na Universidade Federal de São Carlos (UFSCar), em período integral. Durante a graduação teve uma bolsa de iniciação científica recusada porque a professora responsável pela pesquisa disse que ela nunca usaria Física na vida. Sônia disse em uma entrevista: \"Eu queria tanto que ela visse o que eu ‘não fiz com Física’, porque realmente ela se negou a me dar a bolsa. Será que ela ficou sabendo do que aconteceu comigo depois? Eu mesma gostaria de ir lá e contar pra ela!\".",
+            "Ainda disse das dificuldades encontradas no mercado de trabalho pelas mulheres negras: \"elas têm que estudar, se especializar, se tornar altamente qualificadas, pois por serem negras, tudo será muito difícil, portanto, têm que ser as melhores.\" O investimento em formação pode incentivar a participação das mulheres em variados espaços de poder."
+        ],
+        "addedBy":"Nayla Ribeiro"
+    },
+    {
+        "id":9,
+        "name": "Grace Murray Hopper",
+        "photo":"https://pt.wikipedia.org/wiki/Grace_Hopper#/media/Ficheiro:Commodore_Grace_M._Hopper,_USN_(covered).jpg",
+        "subtitle": "A incrível Grace Hopper",
+        "about": "Grace Murray Hopper é uma das grandes mulheres da computação que conquistou títulos como \"a incrível Grace Hopper\",\"Rainha da Computação\", \"Rainha da Codificação\", \"vovó do COBOL\" e \"Grande Dama do Software\".",
+        "phrase":"Se é uma boa ideia, vá em frente e faça porque é muito mais fácil pedir desculpas do que obter permissão.",
+        "history": [ 
+            "Hopper foi uma analista de sistemas da Marinha dos Estados Unidos nas décadas de 1940 e 1950, e enquanto atuava por lá desenvolveu a linguagem de programação Flow-Matic, que foi a primeira delas a ser adaptada para o idioma inglês.",
+            "Essa linguagem, apesar de já extinta, serviu como base para a criação do COBOL (Common Business Oriented Language) – usado até os dias de hoje em processamento de bancos de dados comerciais. E, por isso, mesmo que ela não tenha participado efetivamente da criação dessa linguagem de programação, Grace Hopper ficou conhecida como a \"vovó do COBOL\" por ter desenvolvido a base para sua criação.",
+            "Por conta de sua relevância, Hopper foi convidada para integrar o subcomitê que desenvolveu as especificações da linguagem COBOL em uma reunião que aconteceu em 1959 no Pentágono. Além da analista da Marinha, fizeram parte do comitê outras seis pessoas: dois especialistas da IBM, outros dois da RCA e mais dois da Sylvania Electric Products. Grace Hopper também é apontada como a autora do termo “bug”, que usamos até os dias de hoje para designar uma falha em códigos-fonte. A invenção seria uma sigla para abreviar Big Ugly Goof (Grande idiota feioso) e teria surgido quando Grace tentava encontrar onde estava um problema em seu computador."
+        ],
+        "addedBy":"Natalia Luiza"
+    },   
+    {
+        "id":10,
+        "name": "Julieta",
+        "photo":"url",
+        "subtitle": "Sapeca levada da breca",
+        "about": "Felina sim, mas com sentimentos quase humanos",
+        "phrase":"Miau...humana cadê minha comida",
+        "history": [ 
+            "Gatinha da Jô, embora não goste deste rótulo, uma vez que zela pelo princípio da liberdade acima de todas as coisas",
+            "Costuma se aconchegar em lugares quentinhos e fazer uma carinha fofa irresistível"
+        ],
+        "addedBy":"Jô Corrêa"
+    },
+    {
+        "id":11,
+        "name": "Beyoncé",
+        "photo":"https://media.npr.org/assets/img/2018/10/11/hsieh_angela_music_turntables_beyonce_wide-0a3bbf1dd333de9f77c0795468fec0c987eb63c8-s1600-c85.jpg",
+        "subtitle": "A Deusa da Música e da Arte",
+        "about": "Beyoncé se tornou mundialmente conhecida em 1997, como integrante de seu grupo musical Black Eye Peas. Além de cantora e compositora, é atriz e mãe de Blue Ivy, Sir, e Rumi Carter. Estreiou sua carreira solo em 2003, em 2008 lançou seu terceiro álbum de sucesso comercial consecutivo.",
+        "phrase":"We have to teach our boys the rules of equality and respect, so that as they grow up gender equality becomes a natural way of life. And we have to teach our girls that they can reach as high as humanly possible.",
+        "history": [ 
+            "No último dia 16 de junho, Beyoncé e o marido lançaram o disco que todo mundo especulava há pelo menos 3 anos que fosse lançado eventualmente. EVERYTHING IS LOVE é um álbum em conjunto com Jay Z, lançado de surpresa no fim do show da turnê em conjunto On The Run Tour II em Londres. O disco é apontado como fim simbólico da trilogia musical iniciada com Lemonade, de Beyoncé, e 4:44, lançado em 2018 por Jay Z. O disco estreiou em primeiro lugar nas paradas do mundo todo.",
+            "Estar longe da costa em mar aberto pode ser também uma leitura muito transparente do curso artístico que Beyoncé tomou desde o seu primeiro lançamento surpresa, em 2014. As entrevistas a veículos convencionais foram minando até desaparecer do calendário da cantora, ao passo que a construção de uma imagem de uma figura distante de todos seus pares e também do público em geral. É como se Beyoncé pudesse ser vista pelos fãs e colegas de trabalho de longe, sem acesso e sem proximidade, ao menos que ela queira.",
+            "O vídeo para a faixa de APESHIT foi lançado juntamente com o álbum e ganhou status imediato de lendário por ser filmado no Museu do Louvre em Paris e provocar uma leitura diferente da iconografia da arte europeia clássica promovendo uma justaposição da cultura negra, sempre existente, porém nunca evidente, com peças históricas criadas por artistas eurocentristas. Peças como Mona Lisa, Vitória da Samotrácia e a Venus de Milo, históricas e emblemáticas por contra própria, viram pano de fundo para Beyoncé e Jay Z que se apresentem, cantando e muitas vezes parados, como peças de arte no mesmo nível do que o Louvre exibe diariamente."
+        ],
+        "addedBy":"Wanessa Marcondes"
+    },    
+    {
+        "id":12,
+        "name": "Nina Silva",
+        "photo":"https://socialgoodbrasil.org.br/wp-content/uploads/2018/09/40760171_1819841144735917_2618787344446128128_n-960x480.jpg",
+        "subtitle": "A poderosa",
+        "about": "Nina Silva é executiva de TI, uma das 100 pessoas afrodescendentes com menos de 40 anos mais influentes do mundo e sócia fundadora do Movimento Black Money. Além disso também é palestrante e escritora.",
+        "phrase":"Eu vejo a tecnologia muito voltada para humanas, muito voltada ao entendimento do que são as pessoas, do que são as necessidades das pessoas, e como que a gente pode melhorar a vida delas a partir da tecnologia",
+        "history": [ 
+            "Marina Silva, mais conhecida como Nina Silva, formada em Administração pela Universidade Federal Fluminense e fez pós-graduação na área de sistema de informação e gestão de projetos. Nascida e criada em São Gonçalo (RJ), no bairro Jardim Santa Catarina, que já foi considerada a maior favela plana da América Latina.",
+            "Como jovem, mulher e negra sempre lidou com a disparidade de não conviver com semelhantes nos times em que trabalhava. Desde criança nunca teve problemas com os números, e sempre ajudava seu pai no comercio familiar. Uma das fundadoras do Movimento Black Money, escritora, mentora e gestora com carreia internacional consolidada e 17 anos de experiência com Tecnologia da Informação (TI).",
+            "Indicada pela Forbes como uma das 20 mulheres mais poderosas do Brasil em 2019 e mais influentes do mundo abaixo de 40 anos. Há 70 mil resultados com nome da Nina Silva no Google, há dois anos. A empreendedora foi reconhecida pela ONU como uma das 100 personalidades e pela instituição internacional MIPAD (Most Influrntial People of African Descent).",
+            "Para gestora, a pessoa que se considera deste século e quer realmente causar impacto social, independente da carreia ou de um objetivo pessoal, precisa estar conectada e criar redes que possibilitem a transformação."
+        ],
+        "addedBy":"Marisa de Fátima Humba António"
+    }
+]
