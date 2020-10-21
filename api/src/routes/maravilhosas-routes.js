@@ -8,7 +8,7 @@ router.post('/maravilhosas', controller.addMaravilhosa)
 
 router.get('/maravilhosas/:id', controller.getMaravilhosaById)
 
-//put /maravilhosas/id
+router.put('/maravilhosas/:id', controller.updateMaravilhosa)
 
 //delete /maravilhosas/id
 

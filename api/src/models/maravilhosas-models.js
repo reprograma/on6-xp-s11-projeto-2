@@ -9,7 +9,8 @@ const selectAllData = () => {
 }
 
 const selectDataById = (id) => {
-    const dadoEncontrado = allData.find(item => item.id === id)
+    const maravilhosaId = parseInt(id)
+    const dadoEncontrado = allData.find(item => item.id === maravilhosaId)
     if (dadoEncontrado){
         return {error: null, data: dadoEncontrado}
     } else{
@@ -31,8 +32,19 @@ const insertData = (data) => {
 
 }
 
-//updateData
+const updateData = (id, dataToUpdate) => {
+    const maravilhosaFound = allData.find(item => item.id == id) 
+    const maravilhosaIndex = allData.indexOf(maravilhosaFound) 
+
+    if (maravilhosaIndex >= 0) { 
+        allData.splice(maravilhosaIndex, 1, dataToUpdate)
+
+        return {error: null, data: selectDataById(id)}
+    } else {
+        return {error: {message: "Ops, não encontrei esse registro para poder alterá-lo"}, data: null}
+    }
+}
 
 //deleteData
 
-module.exports = {selectAllData, selectDataById, insertData}
+module.exports = {selectAllData, selectDataById, insertData, updateData}

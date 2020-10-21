@@ -11,8 +11,7 @@ const getMaravilhosas =  (req,res) => {
 
 //getMaravilhosaById
 const getMaravilhosaById =  (req,res) => {
-    const id = parseInt(req.params.id)
-    const { error, data } = model.selectDataById(id)
+    const { error, data } = model.selectDataById(req.params.id)
     if (error === null){
         res.status(200).json(data);
     }else{
@@ -32,7 +31,18 @@ const addMaravilhosa = (req,res) => {
     }
 }
 //updateMaravilhosa 
+const updateMaravilhosa = (req, res) => {
+    const maravilhosaId = req.params.id
+    const maravilhosaToUpdate = req.body 
+    const {error, data} = model.updateData(maravilhosaId, maravilhosaToUpdate )
+     if(error=== null) {
+         res.status(201).send(data)
+    } else {
+        res.status(404).json({"message": error.message})
+     }
+    
+}
 
 //deleteMaravilhosa
 
-module.exports = {getMaravilhosas, getMaravilhosaById, addMaravilhosa}
+module.exports = {getMaravilhosas, getMaravilhosaById, addMaravilhosa, updateMaravilhosa}
