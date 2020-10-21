@@ -10,8 +10,8 @@ const selectAllData = () => {
 }
 
 const selectDataById = (id) => {
-    const maravilhosaId = parseInt(id)
-    const dadoEncontrado = allData.find(item => item.id === maravilhosaId)
+    const maravilhosaId = id
+    const dadoEncontrado = allData.find(item => item.id == maravilhosaId)
     if (dadoEncontrado){
         return {error: null, data: dadoEncontrado}
     } else{
@@ -20,7 +20,7 @@ const selectDataById = (id) => {
 }
 
 const insertData = (newMaravilhosa) => {
-    const maravilhosaFound = allData.find(maravilhosa => maravilhosa.name === newMaravilhosa.name) // recupero o filme que foi criei no array de filmes      
+    const maravilhosaFound = allData.find(maravilhosa => maravilhosa.name == newMaravilhosa.name) // recupero o filme que foi criei no array de filmes      
     
     if (!newMaravilhosa.id) {
         newMaravilhosa.id = Math.random().toString(36).substr(-8)
@@ -40,8 +40,8 @@ const insertData = (newMaravilhosa) => {
 }
 
 const updateData = (id, dataToUpdate) => {
-    const maravilhosaId = parseInt(id)
-    const maravilhosaFound = allData.find(item => item.id === maravilhosaId) 
+    const maravilhosaId = id
+    const maravilhosaFound = allData.find(item => item.id == maravilhosaId) 
     const maravilhosaIndex = allData.indexOf(maravilhosaFound) 
 
     if (maravilhosaIndex >= 0) { 
@@ -59,8 +59,8 @@ const updateData = (id, dataToUpdate) => {
 }
 
 const deleteData = (id) => {
-    const maravilhosaId = parseInt(id)
-    const maravilhosaFound = allData.find(item => item.id === maravilhosaId) 
+    const maravilhosaId = id
+    const maravilhosaFound = allData.find(item => item.id == maravilhosaId) 
     const maravilhosaIndex = allData.indexOf(maravilhosaFound) 
 
 
