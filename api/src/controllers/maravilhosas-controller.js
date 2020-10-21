@@ -21,9 +21,18 @@ const getMaravilhosaById =  (req,res) => {
 }
 
 //addMaravilhosa 
+const addMaravilhosa = (req,res) => {
 
+    const {error} = model.insertData(req.body)
+    if(error === null) {
+
+        res.status(201).json("Registro adicionado com sucesso");
+    } else {
+        res.status(400).json({"message": error.message})
+    }
+}
 //updateMaravilhosa 
 
 //deleteMaravilhosa
 
-module.exports = {getMaravilhosas, getMaravilhosaById}
+module.exports = {getMaravilhosas, getMaravilhosaById, addMaravilhosa}

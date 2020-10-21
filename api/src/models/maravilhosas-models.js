@@ -17,11 +17,22 @@ const selectDataById = (id) => {
     }
 }
 
+const insertData = (data) => {
+    if (!data.id) {
+        data.id = Math.random().toString(36).substr(-8)
+    }
+    const maravilhosaFound = allData.find(maravilhosa => maravilhosa.name === data.name) // recupero o filme que foi criei no array de filmes      
+    if(maravilhosaFound) {
+       return {error: {message: "Ops, registro duplicado"}} 
+    } else {
+        allData.push(data)
+        return {error: null}
+    }
 
-//insertData
+}
 
 //updateData
 
 //deleteData
 
-module.exports = {selectAllData, selectDataById}
+module.exports = {selectAllData, selectDataById, insertData}

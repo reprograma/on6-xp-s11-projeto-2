@@ -4,6 +4,8 @@ const controller = require('../controllers/maravilhosas-controller')
 
 router.get('/maravilhosas', controller.getMaravilhosas)
 
+router.post('/maravilhosas', controller.addMaravilhosa)
+
 router.get('/maravilhosas/:id', controller.getMaravilhosaById)
 
 //put /maravilhosas/id
