@@ -1,3 +1,4 @@
+const fs = require('fs')
 let allData = require('../data/data.json')
 
 const selectAllData = () => {
@@ -18,17 +19,22 @@ const selectDataById = (id) => {
     }
 }
 
-const insertData = (data) => {
-    const maravilhosaFound = allData.find(maravilhosa => maravilhosa.name === data.name) // recupero o filme que foi criei no array de filmes      
+const insertData = (newMaravilhosa) => {
+    const maravilhosaFound = allData.find(maravilhosa => maravilhosa.name === newMaravilhosa.name) // recupero o filme que foi criei no array de filmes      
     
-    if (!data.id) {
-        data.id = Math.random().toString(36).substr(-8)
+    if (!newMaravilhosa.id) {
+        newMaravilhosa.id = Math.random().toString(36).substr(-8)
     }
-    
+ 
     if(maravilhosaFound) {
        return {error: {message: "Ops, registro duplicado"}} 
     } else {
-        allData.push(data)
+        fs.writeFileSync('./src/data/data.json', JSON.stringify([...allData, newMaravilhosa]), 'utf8', (err) => {
+            if (err) {
+                console.log(err)
+            }
+        })
+    
         return {error: null}
     }
 }
@@ -40,6 +46,11 @@ const updateData = (id, dataToUpdate) => {
 
     if (maravilhosaIndex >= 0) { 
         allData.splice(maravilhosaIndex, 1, dataToUpdate)
+        fs.writeFileSync('./src/data/data.json', JSON.stringify([allData]), 'utf8', (err) => {
+            if (err) {
+                console.log(err)
+            }
+        })
 
         return {error: null, data: selectDataById(id)}
     } else {
@@ -52,8 +63,15 @@ const deleteData = (id) => {
     const maravilhosaFound = allData.find(item => item.id === maravilhosaId) 
     const maravilhosaIndex = allData.indexOf(maravilhosaFound) 
 
+
+
     if (maravilhosaIndex >= 0) { 
         allData.splice(maravilhosaIndex, 1)
+        fs.writeFileSync('./src/data/data.json', JSON.stringify([allData]), 'utf8', (err) => {
+            if (err) {
+                console.log(err)
+            }
+        })
         return {error: null}
     } else {
         return {error: {message: "Ops, não encontrei esse registro para poder deletá-lo"}}

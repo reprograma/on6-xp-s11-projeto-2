@@ -24,7 +24,6 @@ const addMaravilhosa = (req,res) => {
 
     const {error} = model.insertData(req.body)
     if(error === null) {
-
         res.status(201).json("Registro adicionado com sucesso");
     } else {
         res.status(400).json({"message": error.message})
@@ -37,7 +36,7 @@ const updateMaravilhosa = (req, res) => {
          res.status(201).send(data)
     } else {
         res.status(404).json({"message": error.message})
-     }
+    }
     
 }
 
