@@ -10,6 +10,6 @@ router.get('/maravilhosas/:id', controller.getMaravilhosaById)
 
 router.put('/maravilhosas/:id', controller.updateMaravilhosa)
 
-//delete /maravilhosas/id
+router.delete('/maravilhosas/:id', controller.deleteMaravilhosa)
 
 module.exports = router;

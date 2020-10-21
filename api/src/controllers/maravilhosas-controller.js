@@ -32,9 +32,7 @@ const addMaravilhosa = (req,res) => {
 }
 //updateMaravilhosa 
 const updateMaravilhosa = (req, res) => {
-    const maravilhosaId = req.params.id
-    const maravilhosaToUpdate = req.body 
-    const {error, data} = model.updateData(maravilhosaId, maravilhosaToUpdate )
+    const {error, data} = model.updateData(req.params.id, req.body  )
      if(error=== null) {
          res.status(201).send(data)
     } else {
@@ -44,5 +42,19 @@ const updateMaravilhosa = (req, res) => {
 }
 
 //deleteMaravilhosa
+const deleteMaravilhosa = (req, res) => {
+    const {error} = model.deleteData(req.params.id)
+    if(error===null) {
+        res.status(204).send("Registro removido com sucesso.")
+    } else {
+        res.status(404).json({"message": error.message})
+    }
+}
 
-module.exports = {getMaravilhosas, getMaravilhosaById, addMaravilhosa, updateMaravilhosa}
+module.exports = {
+    getMaravilhosas, 
+    getMaravilhosaById, 
+    addMaravilhosa, 
+    updateMaravilhosa, 
+    deleteMaravilhosa 
+}

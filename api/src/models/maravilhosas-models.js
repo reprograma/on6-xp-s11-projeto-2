@@ -19,21 +19,23 @@ const selectDataById = (id) => {
 }
 
 const insertData = (data) => {
+    const maravilhosaFound = allData.find(maravilhosa => maravilhosa.name === data.name) // recupero o filme que foi criei no array de filmes      
+    
     if (!data.id) {
         data.id = Math.random().toString(36).substr(-8)
     }
-    const maravilhosaFound = allData.find(maravilhosa => maravilhosa.name === data.name) // recupero o filme que foi criei no array de filmes      
+    
     if(maravilhosaFound) {
        return {error: {message: "Ops, registro duplicado"}} 
     } else {
         allData.push(data)
         return {error: null}
     }
-
 }
 
 const updateData = (id, dataToUpdate) => {
-    const maravilhosaFound = allData.find(item => item.id == id) 
+    const maravilhosaId = parseInt(id)
+    const maravilhosaFound = allData.find(item => item.id === maravilhosaId) 
     const maravilhosaIndex = allData.indexOf(maravilhosaFound) 
 
     if (maravilhosaIndex >= 0) { 
@@ -45,6 +47,23 @@ const updateData = (id, dataToUpdate) => {
     }
 }
 
-//deleteData
+const deleteData = (id) => {
+    const maravilhosaId = parseInt(id)
+    const maravilhosaFound = allData.find(item => item.id === maravilhosaId) 
+    const maravilhosaIndex = allData.indexOf(maravilhosaFound) 
 
-module.exports = {selectAllData, selectDataById, insertData, updateData}
+    if (maravilhosaIndex >= 0) { 
+        allData.splice(maravilhosaIndex, 1)
+        return {error: null}
+    } else {
+        return {error: {message: "Ops, não encontrei esse registro para poder deletá-lo"}}
+    }
+}
+
+module.exports = {
+    selectAllData, 
+    selectDataById, 
+    insertData, 
+    updateData, 
+    deleteData
+}
