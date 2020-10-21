@@ -1,11 +1,10 @@
 const express = require('express');
 const router = express.Router();
+const controller = require('../controllers/maravilhosas-controller')
 
-//get /maravilhosas
+router.get('/maravilhosas', controller.getMaravilhosas)
 
-//post /maravilhosas
-
-//get /maravilhosas/id
+router.get('/maravilhosas/:id', controller.getMaravilhosaById)
 
 //put /maravilhosas/id
 
